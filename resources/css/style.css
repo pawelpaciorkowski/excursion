@@ -1,0 +1,44 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.quide {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.copy {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+footer img {
+    color: white;
+    text-align: right;
+    margin-right: 2px;
+}
+
+footer  {
+    color: white;
+    margin-top: 10px;
+    text-align: right;
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
